@@ -1,0 +1,19 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>登陆</title>
+	<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+	<script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+
+	<script src="http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <link rel="icon" type="image/png" href="img/ic_launcher.png">
+	
+</head>
+<body>
+		<h>login</h>
+
+</body>
+</html>
